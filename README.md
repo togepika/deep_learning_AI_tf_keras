@@ -9,6 +9,8 @@
 * [Hyperparameter Tuning with the HParams Dashboard](https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams)
 * Youtube: [TensorFlow Tutorial 17 - Complete TensorBoard Guide](https://youtu.be/k7KfYXXrOj0?si=_tPRv783qJONkGwD)
 
+#### [`tensorflow_datasets` package](https://www.tensorflow.org/datasets/overview)
+
 #### [Keras official code examples](https://keras.io/examples/)
 
 Covers: 
